@@ -1,7 +1,6 @@
 # Newton-base Trainable Learning Rate
 
-The goal of this work is online adaptation of learning rate.
-This repository contains the code for our proposed meta-optimizer described in: G. Retsinas, G. Sfikas, P.P. Filntisis & P. Maragos, "Newton-base Trainable Learning Rate", under submission.
+This repository contains the code for our proposed meta-optimizer described in: G. Retsinas, G. Sfikas, P.P. Filntisis & P. Maragos, "Newton-base Trainable Learning Rate", under submission. The goal of this work is online adaptation of learning rate.
 
 -------------------------------------------------------------------------
 ### Installation
