@@ -158,6 +158,9 @@ def evaluate_setting(dict, gpu_id, path='./results/'):
     else:
         print('not defined optimizer')  
 
+    if scheduler == 'None':
+        scheduler = None
+    
     if ('sgd' in method) or ('adam' in method):
         # several schedulers supported fort future exploration!
         if scheduler is not None:
